@@ -14,7 +14,7 @@
       {{ title }}
     </h2>
     <div>
-      <p class="mt-0 mb-1 text-base sm:mt-0 sm:mb-1 uppercase sm:text-lg font-light text-slate-400">
+      <p class="mt-0 mb-1 text-base sm:mt-0 sm:mb-1 sm:text-lg font-light text-slate-400">
         Description
       </p>
       <p
@@ -29,7 +29,7 @@
       </p>
     </div>
     <div>
-      <p class="mt-0 mb-1 text-base sm:mt-0 sm:mb-1 uppercase sm:text-lg font-light text-slate-400">
+      <p class="mt-0 mb-1 text-base sm:mt-0 sm:mb-1 sm:text-lg font-light text-slate-400">
         Prerequisites
       </p>
       <p class="mt-0 sm:mt-0">
