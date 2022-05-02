@@ -1,0 +1,106 @@
+{
+  "workshops": [
+    {
+      "title": "Intro to the Python Programming Language",
+      "level": 1,
+      "description": "Looking to learn one of the most popular industry-standard programming languages today? Python is a readable, easy-to-learn programming language used by everyone from small startups to tech giants, with applications from automation scripts to web servers. Our Intro to Python workshop will get you started on the basics of using this incredibly powerful and popular language.",
+      "prereqs": "A repl.it account",
+      "tracks": [1, 2, 3]
+    },
+    {
+      "title": "Intro to the Java Programming Language",
+      "level": 1,
+      "description": "The world runs on code, and Java is one of the most widely-used programming languages out there. Learn what Java is, its applications, and how to write your first lines of code in the Fundamentals of Java Workshop! Java is powerful and easy to learn, and traditionally has served as the entry point for those new to coding. No experience needed.",
+      "prereqs": "A repl.it account",
+      "tracks": [1, 2, 3]
+    },
+    {
+      "title": "Intro to Web Development",
+      "level": 1,
+      "description": "Websites are at the core of digital life today, and web development is an extremely in-demand job skill. This workshop will equip you with all the skills needed to creating websites with HTML, CSS, and JavaScript. No prior coding experience is required.",
+      "prereqs": "A repl.it account",
+      "tracks": [2, 3]
+    },
+    {
+      "title": "Animation with Python Turtle",
+      "level": 1,
+      "description": "Learn the basics of Python Turtle with AV Girls Who Code! Python Turtle is a great intro to Python and coding, and it's easy to learn. Our workshop is a fun way to get creative with coding, and no prior coding experience is necessary!",
+      "prereqs": "A repl.it account",
+      "tracks": [1, 2, 3]
+    },
+    {
+      "title": "Intro to Algorithms and Data Structures",
+      "level": 2,
+      "description": "Want to apply your coding knowledge into a competitive, fun, and challenging platform? Consider trying Competitive Programming! Competitive programming involves using problem solving skills such as algorithms, math, and logic to solve a structured programming problem using programming. In this short workshop, I will introduce how Competitive Programming works and start by walking students through a simple problem on the USACO website. The language used will be Java. Prior coding experience required.",
+      "prereqs": "A repl.it account, prior coding experince recommended ",
+      "tracks": [1, 2, 3]
+    },
+    {
+      "title": "Intro to Cybersecurity",
+      "level": 1,
+      "description": "This workshop will take you through the basics of cybersecurity, specifically white hat hacking. White hat hacking involves hacking into your own test devices to find vulnerabilities before other people can. The importance of cybersecurity is constantly growing alongside the growth of the tech field.",
+      "tracks": [1, 2, 3]
+    },
+    {
+      "title": "Intro to Embedded Electronics",
+      "level": 1,
+      "description": "Members of the Amador Valley Robotics Club's Electrical and Software division will teach you how to use a soldering iron, the fundamental concepts of C, and how to wire up a basic circuit with an Arduino.",
+      "prereqs": "Personal (non-chromebook) computer",
+      "tracks": [1, 2, 3]
+    },
+    {
+      "title": "Server Building",
+      "level": 1,
+      "description": "Servers play an crucial role in today's digital landscape. This workshop will lead you through the essentials of how servers work and how you can use them in your own projects.",
+      "tracks": [1, 2, 3]
+    },
+    {
+      "title": "Let's Go Racing: Intro to Robotics",
+      "level": 2,
+      "description": "Putting together your own RC car is a fun and interesting way to learn about robotics and embedded software! In this workshop, you'll learn to put together a fully functioning radio-controlled electric car, wire it up to a microcontroller, and program the microcontroller to take in inputs from a radio controller to spin motors!",
+      "prereqs": "Personal (non-chromebook) computer; Recommended basic C/C++ knowledge",
+      "tracks": [1, 2, 3]
+    },
+    {
+      "title": "Autonomous Drones",
+      "level": 1,
+      "description": "AmadorUAVs is a high school club that builds autonomous aerial vehicles. We will be covering the basics concepts of how drones fly and the recent advancements that have led to the development of drones. In the workshop, students will also understand the controls associated with flying a drone and have the opportunity to fly a small drone as well. We will also show a flight demonstration of macron, a large octocopter that we developed with a length of over 5 feet.",
+      "tracks": [1, 2, 3]
+    },
+    {
+      "title": "Beginner Website Development with Vue.js",
+      "level": 1,
+      "description": "Vue.js is one of the fastest growing frontend frameworks for web development and for good reason. It boasts a vast collection of powerful features that allow you to develop complex, dynamic sites with a very approachable syntax. This workshop will lead you through the basics of developing websites with Vue.js. Note that the intermediate and advanced Vue.js workshops will take place in tracks 2 and 3; taking all three of these workshops will teach you all the skills needed to build advanced websites with Vue.js.",
+      "prereqs": "A repl.it account",
+      "tracks": [1]
+    },
+    {
+      "title": "Intermediate Website Development with Vue.js",
+      "level": 2,
+      "description": "Vue.js is one of the fastest growing frontend frameworks for web development and for good reason. It boasts a vast collection of powerful features that allow you to develop complex, dynamic sites with a very approachable syntax.This workshop will lead you through intermediate concepts used to develop websites with Vue.js. Note that the beginner and advanced Vue.js workshops will take place in tracks 1 and 3; taking all three of these workshops will teach you all the skills needed to build advanced websites with Vue.js.",
+      "prereqs": "A repl.it account",
+      "tracks": [2]
+    },
+    {
+      "title": "Advanced Website Development with Vue.js",
+      "level": 3,
+      "description": "Vue.js is one of the fastest growing frontend frameworks for web development and for good reason. It boasts a vast collection of powerful features that allow you to develop complex, dynamic sites with a very approachable syntax. This workshop will lead you through advanced concepts used to develop websites with Vue.js. Note that the beginner and intermediate Vue.js workshops will take place in tracks 1 and 2; taking all three of these workshops will teach you all the skills needed to build advanced websites with Vue.js.",
+      "prereqs": "A repl.it account",
+      "tracks": [3]
+    },
+    {
+      "title": "Frontend Development with React.js",
+      "level": 2,
+      "description": "React.js is currently the most popular and highly in-demand frontend framework for developing websites. This workshop will teach you how to use the powerful features of React.js, such as components and state management, to create dynamic websites. Basic experience with web development is recommended.",
+      "prereqs": "A repl.it account",
+      "tracks": [1, 2, 3]
+    },
+    {
+      "title": "Applications of Machine Learning",
+      "level": 3,
+      "description": "Machine Learning is the next big thing in the tech industry. We see it all the time in from market predictions to finding patterns in unsolved mysteries. This course will teach you more than machine learning - it will teach you to think like an analyst.",
+      "prereqs": "Recommended coding experience and preferabaly personal (non-chromebook) computer/gmail",
+      "tracks": [1, 2, 3]
+    }
+  ]
+}
