@@ -88,12 +88,12 @@ export default {
       }
       if (userNavigator.userAgent.includes("Mac")) {
         return {
-          os: "linux",
+          os: "mac",
           viewCmd: "cat ace_code_day.txt",
         };
       }
       return {
-        os: "mac",
+        os: "linux",
         viewCmd: "cat ace_code_day.txt",
       };
     },
