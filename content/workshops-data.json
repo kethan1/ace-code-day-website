@@ -70,15 +70,17 @@
       "tracks": [1]
     },
     {
-      "title": "Intermediate Website Development with Vue.js",
+      "title": "Modern Web Development with Vue.js",
       "level": 2,
       "description": "This workshop is the second part of the \"Modern Web Development with Vue.js\" workshop series. The series is designed to take you from a completely new developer to one who has all the skills to build powerful web apps. The first workshop will start with the basics of HTML and CSS, and over the 3 workshops students will start enhancing their projects with Vue.js, a progressive web framework that makes developing complex websites significantly easier. Over the course of the workshop series, students will build a notion.so clone application, allowing them to apply all of the skills they learn throughout the series. Additionally, the final project will be open-ended, so students will be able to customize their projects as much as they'd like after the series.",
+      "prereqs": "This workshop assumes you know the basics of web development with HTML, CSS and JS. Taking the first track \"Modern Web Development with Vue.js\" is recommended but not required.",
       "tracks": [2]
     },
     {
-      "title": "Advanced Website Development with Vue.js",
+      "title": "Modern Web Development with Vue.js",
       "level": 3,
       "description": "This workshop is the third part of the \"Modern Web Development with Vue.js\" workshop series. The series is designed to take you from a completely new developer to one who has all the skills to build powerful web apps. The first workshop will start with the basics of HTML and CSS, and over the 3 workshops students will start enhancing their projects with Vue.js, a progressive web framework that makes developing complex websites significantly easier. Over the course of the workshop series, students will build a notion.so clone application, allowing them to apply all of the skills they learn throughout the series. Additionally, the final project will be open-ended, so students will be able to customize their projects as much as they'd like after the series.",
+      "prereqs": "This workshop assumes you are capable of intermediate web development with Vue.js. Taking the second track of \"Modern Web Development with Vue.js\" is recommended but not required.",
       "tracks": [3]
     },
     {

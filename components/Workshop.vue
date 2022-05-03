@@ -32,7 +32,14 @@
       <p class="mt-0 mb-1 text-base sm:mt-0 sm:mb-1 sm:text-lg font-light text-slate-400">
         Prerequisites
       </p>
-      <p class="mt-0 sm:mt-0">
+      <p
+        class="relative mt-0 sm:mt-0 after:absolute after:bottom-0 after:right-0 after:px-2 after:rounded-full after:shadow-lg after:bg-slate-700 after:border after:border-slate-600 after:text-lg after:font-semibold after:text-white after:transition-opacity after:opacity-0 hover:cursor-pointer hover:after:opacity-100"
+        :class="[
+          !showPrereqs ? 'overflow-y-ellipsis' : '',
+          showPrereqs ? 'after:content-collapse' : 'after:content-expand',
+        ]"
+        @click="showPrereqs = !showPrereqs"
+      >
         {{ prereqs }}
       </p>
     </div>
@@ -66,6 +73,7 @@ export default {
   data() {
     return {
       showDescription: false,
+      showPrereqs: false,
     };
   },
   computed: {
