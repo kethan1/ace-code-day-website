@@ -1,17 +1,18 @@
 <template>
   <div>
-    <Hero />
-    <div class="bg-slate-900 px-6 py-8 sm:py-14">
+    <NavBar class="fixed top-0 z-50" />
+    <Hero id="home" class="pt-14" />
+    <div id="about" class="bg-slate-900 px-6 py-8 sm:py-14 scroll-mt-14">
       <nuxt-content class="lg:max-w-[80ch] xl:max-w-[100ch] mx-auto prose prose-sm sm:prose-base prose-invert" :document="about" />
     </div>
-    <div class=" bg-gradient-to-br from-[#16474d] to-[#22213f] px-6 py-8 sm:py-14">
+    <div id="schedule" class=" bg-gradient-to-br from-[#16474d] to-[#22213f] px-6 py-8 sm:py-14 scroll-mt-14">
       <nuxt-content class="lg:max-w-[80ch] xl:max-w-[100ch] mx-auto prose prose-sm sm:prose-base prose-invert" :document="schedule" />
     </div>
-    <div class="bg-slate-900 px-6 py-8 sm:py-14">
+    <div id="workshops" class="bg-slate-900 px-6 py-8 sm:py-14 scroll-mt-14">
       <nuxt-content class="lg:max-w-[80ch] xl:max-w-[100ch] mx-auto prose prose-sm sm:prose-base prose-invert" :document="workshops" />
       <Workshops class="max-w-[65ch] lg:max-w-[80ch] xl:max-w-[100ch] mx-auto" :data="workshopsData.workshops" />
     </div>
-    <div class=" bg-gradient-to-br from-[#16474d] to-[#22213f] px-6 py-8 sm:py-14">
+    <div id="sign-up" class=" bg-gradient-to-br from-[#16474d] to-[#22213f] px-6 py-8 sm:py-14 scroll-mt-14">
       <nuxt-content class="lg:max-w-[80ch] xl:max-w-[100ch] mx-auto prose prose-sm sm:prose-base prose-invert" :document="signUp" />
     </div>
   </div>

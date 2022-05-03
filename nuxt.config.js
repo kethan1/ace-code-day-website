@@ -10,6 +10,7 @@ export default {
     title: "ACE Code Day",
     htmlAttrs: {
       lang: "en",
+      class: "scroll-smooth",
     },
     meta: [
       { charset: "utf-8" },

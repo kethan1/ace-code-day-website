@@ -10,15 +10,6 @@ For hackathon participants, the 3rd workshop track is reserved as a hackathon wo
 
 Refer to the schedules below for the specific timings of workshop tracks and the hackathon.
 
-<!-- During the break period between each track, we will be providing **free snacks** for all participants. We will also be providing **free pizza** during the dinner period at the end of the day.  -->
-
-<!-- ## Hackathon -->
-
-<!-- <p><span class="after:content-['below'] lg:after:content-['on_the_right']">Refer to the lower schedule </span> for the specific timings regarding the ACE Code Day Hackathon.</p> -->
-
-<!-- For more information, visit [avhacks.org/{insert-link-to-hackathon-writeup}](https://avhacks.org). -->
-
-
 <div class="flex flex-col space-y-3 lg:space-y-0 lg:flex-row lg:space-x-4 lg:items-start">
 
 <Schedule title="Workshop Schedule" class="flex-1" :data="[

@@ -2,7 +2,7 @@
 title: "Sign Up"
 ---
 
-<h1 id="sign-up" class="text-outline-shadow before:content-['Sign_Up']">Sign Up</h1>
+<h1 class="text-outline-shadow before:content-['Sign_Up']">Sign Up</h1>
 
 Fill out the form below to sign up for ACE Code Day 2022! Refer to the [workshop information](#workshop-info) above to inform your decisions on which workshops to participate in. 
 
