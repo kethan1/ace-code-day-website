@@ -24,7 +24,7 @@ ACE Code Day 2022 has a diverse lineup of 13 workshops with topics ranging from 
 
 <h2>Hackathon</h2>
 
-This year, ACE Code Day will also feature a hackathon led by [AVHacks](https://avhacks.org). The hackathon will have events for programmers of all skill levels and will be a great opportunity to practice what you've learned to create something meaningful and compete with others for prizes ranging from **gaming keyboards** to **AirPods**. Visit [avhacks.org](https://avhacks.org) to learn more.
+This year, ACE Code Day will also feature a hackathon led by [AVHacks](https://avhacks.org). The hackathon will have events for programmers of all skill levels and will be a great opportunity to practice what you've learned to create something meaningful and compete with others for prizes ranging from **gaming keyboards** to **AirPods**. Visit [avhacks.vercel.app](https://avhacks.vercel.app/) to learn more.
 
 </ImageFrame>
 

@@ -27,8 +27,8 @@
     {
       "title": "Intro to Algorithms and Data Structures with USACO",
       "level": 2,
-      "description": "Algorithms and data structures are one of the core fundamentals every programmer is expected to be familiar with— even the big tech companies like Google and Facebook are seeking to hire people with adequate mastery of these concepts. Algorithms and data structures and competitive programming involve using problem solving skills such as algorithms, math, and logic to solve a structured programming problem using programming. In this workshop, you will be introduced on the fundamentals of Algorithms and Data strucutres and how they can be applied to USACO (USA Computing Olympiad). Prior experience with the Java is recommended.",
-      "prereqs": "Prior coding experince recommended ",
+      "description": "Algorithms and data structures are one of the core fundamentals every programmer is expected to be familiar with— even the big tech companies like Google and Facebook are seeking to hire people with adequate mastery of these concepts. Algorithms and data structures and competitive programming involve using problem solving skills such as algorithms, math, and logic to solve a structured programming problem using programming. In this workshop, you will be introduced on the fundamentals of Algorithms and Data strucutres and how they can be applied to USACO (USA Computing Olympiad).",
+      "prereqs": "Prior experience with the Java is recommended.",
       "tracks": [1, 2, 3]
     },
     {
@@ -53,7 +53,7 @@
     {
       "title": "Let's Go Racing: Intro to Robotics",
       "level": 2,
-      "description": "Putting together your own radio-controlled car is a fun and interesting way to learn about fundamentals of robotics and embedded software! In this workshop, you'll learn to put together a fully functioning radio-controlled electric car, wire it up to a microcontroller, and program the microcontroller to take in inputs from a radio controller to spin motors! Prior basic C/C++ experience is recommended",
+      "description": "Putting together your own radio-controlled car is a fun and interesting way to learn about fundamentals of robotics and embedded software! In this workshop, you'll learn to put together a fully functioning radio-controlled electric car, wire it up to a microcontroller, and program the microcontroller to take in inputs from a radio controller to spin motors!",
       "prereqs": "Personal (non-chromebook) computer; Recommended basic C/C++ knowledge",
       "tracks": [1, 2, 3]
     },
@@ -66,34 +66,35 @@
     {
       "title": "Modern Web Development with Vue.js",
       "level": 1,
-      "description": "This workshop is the first part of the \"Modern Web Development with Vue.js\" workshop series. The series is designed to take you from a completely new developer to one who has all the skills needed to build powerful web apps. The first workshop will start with the basics of HTML and CSS, and over the 3 workshops students will start enhancing their projects with Vue.js, a progressive web framework that makes developing complex websites significantly easier. Over the course of the workshop series, students will build a notion.so clone application, allowing them to apply all of the skills they learn throughout the series. Additionally, the final project will be open-ended, so students will be able to customize their projects as much as they'd like after the series.",
+      "description": "Vue.js is a progressive web framework that makes developing complex websites significantly easier. This workshop is the first part of the \"Modern Web Development with Vue.js\" workshop series. The series is designed to take you from a completely new developer to one who has all the skills needed to build powerful web apps. The first workshop will start with the basics of HTML and CSS (this one), the second will serve as an introduction to Vue.js and the third will be an advanced course on using the framework. Over the course of the workshop series, students will build a notion.so clone application, allowing them to apply all of the skills they learn throughout the series. Additionally, the final project will be open-ended, so students will be able to customize their projects as much as they'd like after the series.",
       "tracks": [1]
     },
     {
       "title": "Modern Web Development with Vue.js",
       "level": 2,
-      "description": "This workshop is the second part of the \"Modern Web Development with Vue.js\" workshop series. The series is designed to take you from a completely new developer to one who has all the skills to build powerful web apps. The first workshop will start with the basics of HTML and CSS, and over the 3 workshops students will start enhancing their projects with Vue.js, a progressive web framework that makes developing complex websites significantly easier. Over the course of the workshop series, students will build a notion.so clone application, allowing them to apply all of the skills they learn throughout the series. Additionally, the final project will be open-ended, so students will be able to customize their projects as much as they'd like after the series.",
+      "description": "Vue.js is a progressive web framework that makes developing complex websites significantly easier. This workshop is the first part of the \"Modern Web Development with Vue.js\" workshop series. The series is designed to take you from a completely new developer to one who has all the skills needed to build powerful web apps. The first workshop will start with the basics of HTML and CSS, the second (this one) will serve as an introduction to Vue.js and the third will be an advanced course on using the framework. Over the course of the workshop series, students will build a notion.so clone application, allowing them to apply all of the skills they learn throughout the series. Additionally, the final project will be open-ended, so students will be able to customize their projects as much as they'd like after the series.",
       "prereqs": "This workshop assumes you know the basics of web development with HTML, CSS and JS. Taking the first track of \"Modern Web Development with Vue.js\" is recommended but not required.",
       "tracks": [2]
     },
     {
       "title": "Modern Web Development with Vue.js",
       "level": 3,
-      "description": "This workshop is the third part of the \"Modern Web Development with Vue.js\" workshop series. The series is designed to take you from a completely new developer to one who has all the skills to build powerful web apps. The first workshop will start with the basics of HTML and CSS, and over the 3 workshops students will start enhancing their projects with Vue.js, a progressive web framework that makes developing complex websites significantly easier. Over the course of the workshop series, students will build a notion.so clone application, allowing them to apply all of the skills they learn throughout the series. Additionally, the final project will be open-ended, so students will be able to customize their projects as much as they'd like after the series.",
+      "description": "Vue.js is a progressive web framework that makes developing complex websites significantly easier. This workshop is the first part of the \"Modern Web Development with Vue.js\" workshop series. The series is designed to take you from a completely new developer to one who has all the skills needed to build powerful web apps. The first workshop will start with the basics of HTML and CSS, the second will serve as an introduction to Vue.js and the third (this one) will be an advanced course on using the framework. Over the course of the workshop series, students will build a notion.so clone application, allowing them to apply all of the skills they learn throughout the series. Additionally, the final project will be open-ended, so students will be able to customize their projects as much as they'd like after the series.",
       "prereqs": "This workshop assumes you are capable of intermediate web development with Vue.js. Taking the second track of \"Modern Web Development with Vue.js\" is recommended but not required.",
       "tracks": [3]
     },
     {
       "title": "Frontend Development with React.js",
       "level": 2,
-      "description": "React.js: Taking advantage of components and state management, this framework can be used to create dynamic websites with JavaScript. This technology is high in demand and is one of the most popular JavaScript framework. In this workshop students will learn how to leverage this powerful framework to create interactive UIs and elevate their website development skills. Prior HTML/CSS/JS experience recommended.",
+      "description": "React.js: Taking advantage of components and state management, this framework can be used to create dynamic websites with JavaScript. This technology is high in demand and is one of the most popular JavaScript framework. In this workshop students will learn how to leverage this powerful framework to create interactive UIs and elevate their website development skills.",
+      "prereqs": "Prior HTML/CSS/JS experience recommended.",
       "tracks": [1, 2, 3]
     },
     {
       "title": "Applications of Machine Learning",
       "level": 3,
       "description": "Machine Learning is the next big thing in the tech industry. We see it all the time in from market predictions to finding patterns in unsolved mysteries. This course will teach you more than machine learning - it will teach you to think like an analyst.",
-      "prereqs": "Recommended coding experience and preferabaly personal (non-chromebook) computer/gmail",
+      "prereqs": "Recommended coding experience and personal (non-chromebook) computer/gmail",
       "tracks": [1, 2, 3]
     }
   ]
