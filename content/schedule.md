@@ -24,8 +24,10 @@ Refer to the schedules below for the specific timings of workshop tracks and the
 ]"></Schedule>
 
 <Schedule title="Hackathon Schedule" class="flex-1" :data="[
-    { time: '8:00 AM to 9:00 AM', title: 'Hackathon Check-in' },
-    { time: '9:00 AM to 6:00 PM', title: 'Hackathon Work' },
-    { time: '7:00 PM to 8:00 PM', title: 'Hackathon Award Ceremony' },
+    { time: '7:00 AM to 8:00 AM', title: 'Hackathon Check-in' },
+    { time: '8:00 AM to 12:00 PM', title: 'Hackathon Work' },
+    { time: '12:00 PM to 1:00 PM', title: 'Hackathon Lunch' },
+    { time: '1:00 PM to 5:30 PM', title: 'Hackathon Work' },
+    { time: '6:30 PM to 7:30 PM', title: 'Hackathon Award Ceremony' },
 ]"></Schedule>
 </div>
