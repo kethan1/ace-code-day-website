@@ -1,6 +1,6 @@
 <template>
   <div>
-    <NavBar class="fixed top-0 z-50" />
+    <NavBar />
     <Hero id="home" class="pt-14" />
     <div id="about" class="bg-slate-900 px-6 py-8 sm:py-14 scroll-mt-14">
       <nuxt-content class="lg:max-w-[80ch] xl:max-w-[100ch] mx-auto prose prose-sm sm:prose-base prose-invert" :document="about" />
