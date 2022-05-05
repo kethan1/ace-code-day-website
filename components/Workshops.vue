@@ -28,7 +28,7 @@
       <h1>Workshops:</h1>
     </div>
     <p class="mb-5 text-slate-400 text-base">
-      Note: click on workshop descriptions to expand them fully
+      Note: Click on workshop descriptions to expand/collapse them.
     </p>
     <div class="grid md:grid-cols-2 xl:grid-cols-3 gap-2 text-white">
       <Workshop
