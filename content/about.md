@@ -32,7 +32,7 @@ This year, ACE Code Day will also feature a hackathon led by [AVHacks](https://a
 
 <h2>Event Information</h2>
 
-ACE Code Day will be held at **Amador Valley High School** on **May 14th, 2022**. Workshops take place in classrooms from **2:00 PM** to **5:30 PM**, and the hackathon will be hosted in the library from **8:00 AM** to **6:00 PM**. Snacks and dinner will be provided at the event.
+ACE Code Day will be held at **Amador Valley High School** on **May 14th, 2022**. Workshops take place in classrooms from **2:00 PM to 5:30 PM**, and the hackathon will be hosted in the library from **8:00 AM to 6:00 PM**. Snacks and dinner will be provided at the event.
 
 </ImageFrame>
 
