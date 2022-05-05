@@ -28,7 +28,7 @@
       "title": "Intro to Algorithms and Data Structures with USACO",
       "level": 2,
       "description": "Algorithms and data structures are one of the core fundamentals every programmer is expected to be familiar with— even the big tech companies like Google and Facebook are seeking to hire people with adequate mastery of these concepts. Algorithms and data structures and competitive programming involve using problem solving skills such as algorithms, math, and logic to solve a structured programming problem using programming. In this workshop, you will be introduced on the fundamentals of Algorithms and Data strucutres and how they can be applied to USACO (USA Computing Olympiad).",
-      "prereqs": "Prior experience with the Java is recommended.",
+      "prereqs": "Prior experience with Java is recommended.",
       "tracks": [1, 2, 3]
     },
     {
