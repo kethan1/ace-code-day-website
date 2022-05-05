@@ -13,7 +13,7 @@ Refer to the schedules below for the specific timings of workshop tracks and the
 <div class="flex flex-col space-y-3 lg:space-y-0 lg:flex-row lg:space-x-4 lg:items-start">
 
 <Schedule title="Workshop Schedule" class="flex-1" :data="[
-    { time: '12:30 to 1:30 PM', title: 'Workshop Check-in', description: '(For workshop teachers)' },
+    { time: '12:30 to 1:30 PM', title: 'Workshop Check-in' },
     { time: '1:30 PM to 2:00 PM', title: 'Opening Ceremony' },
     { time: '2:00 PM to 3:00 PM', title: 'Workshop Track 1' },
     { time: '3:00 PM to 3:15 PM', title: 'Break' },
