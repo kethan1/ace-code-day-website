@@ -88,7 +88,7 @@
       "level": 2,
       "description": "React.js: Taking advantage of components and state management, this framework can be used to create dynamic websites with JavaScript. This technology is high in demand and is one of the most popular JavaScript framework. In this workshop students will learn how to leverage this powerful framework to create interactive UIs and elevate their website development skills.",
       "prereqs": "Prior HTML/CSS/JS experience recommended.",
-      "tracks": [1, 2, 3]
+      "tracks": [1]
     },
     {
       "title": "Applications of Machine Learning",
