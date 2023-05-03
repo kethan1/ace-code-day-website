@@ -14,17 +14,17 @@ We're [ACE Coding](https://acecoding.org) — a group of high schoolers dedicate
 
 <ImageFrame src="images/stock/teacher_lecturing.jpg" alt="A teacher lecturing a workshop at ACE Code Day" class="lg:even:flex-row-reverse lg:even:space-x-reverse">
 
-<h2>Workshops</h2>
+<h2>Event Lineup</h2>
 
-ACE Code Day 2022 has a diverse lineup of 13 workshops with topics ranging from **web development** to **artificial intelligence** to **embedded electronics**, and much more! [Keep scrolling](#workshops) for a detailed overview of all the workshops we have to offer.
+ACE Code Day 2023 has a diverse lineup of 14 workshops with topics ranging from **web development** to **artificial intelligence** to **electrical engineering**, and much more! [Keep scrolling](#workshops) for a detailed overview of all the workshops we have to offer. Additionally, the event will feature **guest speakers** from big tech companies like Adobe for students to learn more about careers in tech!
 
 </ImageFrame>
 
 <ImageFrame src="images/stock/students_collaborating.jpg" alt="Two students collaborating on a project at ACE Code Day">
 
-<h2>Hackathon</h2>
+<h2>DinoHacks</h2>
 
-This year, ACE Code Day will also feature a hackathon led by [AVHacks](https://avhacks.org). The hackathon will have events for programmers of all skill levels and will be a great opportunity to practice what you've learned to create something meaningful and compete with others for prizes ranging from **gaming keyboards** to **AirPods**. Visit [avhacks.org](https://avhacks.org) to learn more.
+This year, ACE Coding will also be hosting a hackathon separate from ACE Code Day from **May 12th** to **May 14th, 2023**. By competing in DinoHacks, you can strengthen your existing skills, bond with peers, and potentially win a grand prize of **$100** along with other prizes! To sign up for the event and learn more, visit [the DinoHacks Devpost](https://dino-hacks.devpost.com).
 
 </ImageFrame>
 
@@ -32,7 +32,7 @@ This year, ACE Code Day will also feature a hackathon led by [AVHacks](https://a
 
 <h2>Event Information</h2>
 
-ACE Code Day will be held at **Amador Valley High School** on **May 14th, 2022**. Workshops take place in classrooms from **2:00 PM to 5:30 PM**, and the hackathon will be hosted in the library from **8:00 AM to 6:00 PM**. Snacks and dinner will be provided at the event.
+ACE Code Day will be held at **Amador Valley High School** on **May 13th, 2023**. Workshops will take place in R building classrooms from **2:00 PM to 5:30 PM**, the guest speaker session will take place in the MPR from **5:35 PM to 6:35 PM**, and free pizza dinner will be served from **6:50 to 7:20 PM**.
 
 </ImageFrame>
 

@@ -4,19 +4,25 @@
       "title": "Intro to the Python Programming Language",
       "level": 1,
       "description": "Looking to learn one of the most popular industry-standard programming languages today? Python is a readable, easy-to-learn programming language used by everyone from small startups to tech giants, with applications from automation scripts to web servers. Our Intro to Python workshop will get you started on the basics of using this incredibly powerful and popular language. No experience needed. Recommended for first time coders and beginners.",
-      "tracks": [1, 2, 3]
+      "tracks": [1, 2]
     },
     {
       "title": "Intro to the Java Programming Language",
       "level": 1,
       "description": "The world runs on code, and Java is one of the most widely-used programming languages out there. Learn what Java is, its applications, and how to write your first lines of code in the Fundamentals of Java Workshop! Java is powerful and easy to learn, and traditionally has served as the entry point for those new to coding. No experience needed. Recommended for first time coders and beginners.",
-      "tracks": [1, 2, 3]
+      "tracks": [1, 2]
+    },
+    {
+      "title": "Intro to the C++ Programming Language",
+      "level": 1,
+      "description": "This C++ workshop teaches fundamental programming concepts such as variables, data types, control structures, functions, and arrays. Participants will learn to write and debug C++ code and work on small programming projects. By the end of the workshop, attendees will have a basic understanding of programming with C++.",
+      "tracks": [3]
     },
     {
       "title": "Intro to Web Development with HTML/CSS/JS",
       "level": 1,
       "description": "Websites are at the core of digital life today, and web development is an essential skill now more than ever. This workshop will equip you with all the skills needed to create websites with HTML, CSS, and JavaScript. No prior coding experience is required.",
-      "tracks": [2, 3]
+      "tracks": [1, 3]
     },
     {
       "title": "Animation with Python Turtle",
@@ -29,13 +35,13 @@
       "level": 2,
       "description": "Algorithms and data structures are one of the core fundamentals every programmer is expected to be familiar with— even the big tech companies like Google and Facebook are seeking to hire people with adequate mastery of these concepts. Algorithms and data structures and competitive programming involve using problem solving skills such as algorithms, math, and logic to solve a structured programming problem using programming. In this workshop, you will be introduced on the fundamentals of Algorithms and Data strucutres and how they can be applied to USACO (USA Computing Olympiad).",
       "prereqs": "Prior experience with Java is recommended.",
-      "tracks": [1, 2, 3]
+      "tracks": [3]
     },
     {
       "title": "Intro to Cybersecurity",
       "level": 1,
       "description": "Cybersecurity allows one to protect their technology from any external attacks, keeping their data and private info safe. In this workshop, we will go through a brief intodroduction of the importance of Cybersecrity and steps you can take to stay protected. In addition we will introduce tools that will help with out task, and you will learn how to implement those skills in a CTF, or Capture the Flag.",
-      "tracks": [1, 2, 3]
+      "tracks": [2]
     },
     {
       "title": "Fundamentals of Electrical and Embedded Engineering",
@@ -45,51 +51,42 @@
       "tracks": [1, 2, 3]
     },
     {
-      "title": "Let's Go Racing: Intro to Robotics",
-      "level": 2,
-      "description": "Putting together your own radio-controlled car is a fun and interesting way to learn about fundamentals of robotics and embedded software! In this workshop, you'll learn to put together a fully functioning radio-controlled electric car, wire it up to a microcontroller, and program the microcontroller to take in inputs from a radio controller to spin motors!",
-      "prereqs": "Personal (non-chromebook) computer; Recommended basic C/C++ knowledge",
-      "tracks": [1, 2, 3]
-    },
-    {
       "title": "Drones: How They Fly and How to Fly Them",
       "level": 1,
       "description": "AmadorUAVs is a club based at Amador that builds autonomous aerial vehicles. Members of this club will be covering the basics concepts of how drones fly and the recent advancements that have led to the development of drones. In the workshop, students will also understand the controls associated with flying a drone and have the opportunity to fly a drone for themselves. Students will also be shown a flight demonstrations of Macron, a 5-foot long octocopter that AmadorUAVs has developed to compete in various events.",
-      "tracks": [1, 2, 3]
-    },
-    {
-      "title": "Modern Web Development with Vue.js",
-      "level": 1,
-      "description": "Vue.js is a progressive web framework that makes developing complex websites significantly easier. This workshop is the first part of the \"Modern Web Development with Vue.js\" workshop series. The series is designed to take you from a completely new developer to one who has all the skills needed to build powerful web apps. The first workshop will start with the basics of HTML and CSS (this one), the second will serve as an introduction to Vue.js and the third will be an advanced course on using the framework. Over the course of the workshop series, students will build a notion.so clone application, allowing them to apply all of the skills they learn throughout the series. Additionally, the final project will be open-ended, so students will be able to customize their projects as much as they'd like after the series.",
-      "tracks": [1]
-    },
-    {
-      "title": "Modern Web Development with Vue.js",
-      "level": 2,
-      "description": "Vue.js is a progressive web framework that makes developing complex websites significantly easier. This workshop is the second part of the \"Modern Web Development with Vue.js\" workshop series. The series is designed to take you from a completely new developer to one who has all the skills needed to build powerful web apps. The first workshop will start with the basics of HTML and CSS, the second (this one) will serve as an introduction to Vue.js and the third will be an advanced course on using the framework. Over the course of the workshop series, students will build a notion.so clone application, allowing them to apply all of the skills they learn throughout the series. Additionally, the final project will be open-ended, so students will be able to customize their projects as much as they'd like after the series.",
-      "prereqs": "This workshop assumes you know the basics of web development with HTML, CSS and JS. Taking the first track of \"Modern Web Development with Vue.js\" is recommended but not required.",
-      "tracks": [2]
-    },
-    {
-      "title": "Modern Web Development with Vue.js",
-      "level": 3,
-      "description": "Vue.js is a progressive web framework that makes developing complex websites significantly easier. This workshop is the third part of the \"Modern Web Development with Vue.js\" workshop series. The series is designed to take you from a completely new developer to one who has all the skills needed to build powerful web apps. The first workshop will start with the basics of HTML and CSS, the second will serve as an introduction to Vue.js and the third (this one) will be an advanced course on using the framework. Over the course of the workshop series, students will build a notion.so clone application, allowing them to apply all of the skills they learn throughout the series. Additionally, the final project will be open-ended, so students will be able to customize their projects as much as they'd like after the series.",
-      "prereqs": "This workshop assumes you are capable of intermediate web development with Vue.js. Taking the second track of \"Modern Web Development with Vue.js\" is recommended but not required.",
       "tracks": [3]
+    },
+    {
+      "title": "Frontend Web Development with Vue.js",
+      "level": 1,
+      "description": "Vue.js is a progressive web framework that makes developing complex websites significantly easier. This workshop is will serve as an introduction to Vue.js for people of various different skill levels.",
+      "tracks": [1, 3]
     },
     {
       "title": "Frontend Development with React.js",
       "level": 2,
       "description": "React.js: Taking advantage of components and state management, this framework can be used to create dynamic websites with JavaScript. This technology is high in demand and is one of the most popular JavaScript framework. In this workshop students will learn how to leverage this powerful framework to create interactive UIs and elevate their website development skills.",
       "prereqs": "Prior HTML/CSS/JS experience recommended.",
-      "tracks": [1]
+      "tracks": [2]
     },
     {
-      "title": "Applications of Machine Learning",
-      "level": 3,
+      "title": "Intro to Machine Learning",
+      "level": 2,
       "description": "Machine Learning is the next big thing in the tech industry. We see it all the time in from market predictions to finding patterns in unsolved mysteries. This course will teach you more than machine learning - it will teach you to think like an analyst.",
       "prereqs": "Recommended coding experience and personal (non-chromebook) computer/gmail",
-      "tracks": [1, 2, 3]
+      "tracks": [1, 2]
+    },
+    {
+      "title": "Game Development",
+      "level": 1,
+      "description": "This introductory coding workshop is geared towards individuals interested in game development. The workshop will cover fundamental programming concepts such as variables, functions, and conditional statements, as well as game-specific topics like game loops, player movement, collision detection, and scoring systems. Participants will gain the skills needed to create a basic game, regardless of programming experience. This workshop provides a solid foundation for those looking to explore the world of game development.",
+      "tracks": [3]
+    },
+    {
+      "title": "Intro to CAD",
+      "level": 1,
+      "description": "This CAD workshop teaches the basics of computer-aided design and how to create 3D models using the OnShape platform. Participants will learn how to create sketches, parts, assemblies, and drawings, as well as apply different features such as constraints, fillets, chamfers, and patterns. By the end of the workshop, participants will have the skills to create simple 3D models, regardless of their previous CAD experience.",
+      "tracks": [3]
     }
   ]
 }
