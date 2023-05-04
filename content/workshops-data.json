@@ -85,7 +85,7 @@
     {
       "title": "Intro to CAD",
       "level": 1,
-      "description": "This CAD workshop teaches the basics of computer-aided design and how to create 3D models using the OnShape platform. Participants will learn how to create sketches, parts, assemblies, and drawings, as well as apply different features such as constraints, fillets, chamfers, and patterns. By the end of the workshop, participants will have the skills to create simple 3D models, regardless of their previous CAD experience.",
+      "description": "Learn the basics of mechanical design through beginner software TinkerCAD. You will also learn the fundamental manufacturing processes that can bring your computer designs to life, while also being able to make your own custom keychain.",
       "tracks": [3]
     }
   ]
