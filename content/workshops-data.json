@@ -59,7 +59,7 @@
     {
       "title": "Frontend Web Development with Vue.js",
       "level": 1,
-      "description": "Vue.js is a progressive web framework that makes developing complex websites significantly easier. This workshop is will serve as an introduction to Vue.js for people of various different skill levels.",
+      "description": "This beginner-friendly Vue.js workshop will teach you how to build a $10 billion dollar web app. Prior HTML/CSS/JS experience recommended. We'll go over fundamental concepts, best practices, and modern development techniques. By the end, you'll be able to create your own powerful apps using Vue.js.",
       "tracks": [1, 3]
     },
     {
