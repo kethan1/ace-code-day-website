@@ -79,7 +79,7 @@
     {
       "title": "Game Development",
       "level": 1,
-      "description": "This introductory coding workshop is geared towards individuals interested in game development. The workshop will cover fundamental programming concepts such as variables, functions, and conditional statements, as well as game-specific topics like game loops, player movement, collision detection, and scoring systems. Participants will gain the skills needed to create a basic game, regardless of programming experience. This workshop provides a solid foundation for those looking to explore the world of game development.",
+      "description": "How can programming, art, music, and narrative combine to create a functioning game? In this workshop, students will be introduced to the basic process of game creation and will work with a free, online engine called Bitsy to create their own game! As Bitsy functions on conditional variables rather than full-fledged scripting, students do not need any background in coding to join.",
       "tracks": [3]
     },
     {
