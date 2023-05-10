@@ -44,9 +44,9 @@
       "tracks": [2]
     },
     {
-      "title": "Fundamentals of Electrical and Embedded Engineering",
+      "title": "Intro to Electrical Engineering",
       "level": 1,
-      "description": "From microchips inside our computers and phones to navigation systems that keep aircrafts running, electrical engineering is responsible for keeping these important devices and our world running. The Electrical and Software division of the AVBotz robotics club at Amador will introduce you to the fundamentals of embedded engineering in this workshop—how to use a soldering iron, the basics of the C language, and how to wire up a basic circuit with an Arduino.",
+      "description": "From microchips inside our computers and phones to navigation systems that keep aircrafts running, electrical engineering is responsible for keeping these important devices and our world running. The Electrical and Software division of the AVBotz robotics club at Amador will introduce you to the fundamentals of embedded engineering in this workshop -how to use a soldering iron, how to use Ohm's law, and how to solder LEDs to a protoboard and power it.",
       "prereqs": "Personal (non-chromebook) computer",
       "tracks": [1, 2, 3]
     },
