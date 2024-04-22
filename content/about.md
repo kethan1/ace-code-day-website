@@ -16,7 +16,7 @@ We're [ACE Coding](https://acecoding.org) — a group of high schoolers dedicate
 
 <h2>Event Lineup</h2>
 
-ACE Code Day 2023 has a diverse lineup of 14 workshops with topics ranging from **web development** to **artificial intelligence** to **electrical engineering**, and much more! [Keep scrolling](#workshops) for a detailed overview of all the workshops we have to offer. Additionally, the event will feature **guest speakers** from big tech companies like Adobe for students to learn more about careers in tech!
+ACE Code Day 2024 has a diverse lineup of 14 workshops with topics ranging from **web development** to **artificial intelligence** to **electrical engineering**, and much more! [Keep scrolling](#workshops) for a detailed overview of all the workshops we have to offer. Additionally, the event will feature **guest speakers** from big tech companies like Adobe for students to learn more about careers in tech!
 
 </ImageFrame>
 
@@ -24,7 +24,7 @@ ACE Code Day 2023 has a diverse lineup of 14 workshops with topics ranging from 
 
 <h2>DinoHacks</h2>
 
-This year, ACE Coding will also be hosting a hackathon separate from ACE Code Day from **May 12th** to **May 14th, 2023**. By competing in DinoHacks, you can strengthen your existing skills, bond with peers, and potentially win a grand prize of **$100** along with other prizes! To sign up for the event and learn more, visit [the DinoHacks Devpost](https://dino-hacks.devpost.com).
+This year, ACE Coding will also be hosting a hackathon separate from ACE Code Day from Friday **May 17th** to Saturday **May 18th, 2024**, during the ACE Code Day event. By competing in DinoHacks, you can strengthen your existing skills, bond with peers, and potentially win prizes! We will be posting information on how to sign up soon.
 
 </ImageFrame>
 
@@ -32,7 +32,7 @@ This year, ACE Coding will also be hosting a hackathon separate from ACE Code Da
 
 <h2>Event Information</h2>
 
-ACE Code Day will be held at **Amador Valley High School** on **May 13th, 2023**. Workshops will take place in R building classrooms from **2:00 PM to 5:30 PM**, the guest speaker session will take place in the MPR from **5:35 PM to 6:35 PM**, and free pizza dinner will be served from **6:50 to 7:20 PM**.
+ACE Code Day will be held at **Amador Valley High School** on **May 18th, 2024**. Workshops will take place in R building classrooms from **2:00 PM to 5:30 PM**, the guest speaker session will take place in the MPR from **5:35 PM to 6:35 PM**, and free pizza dinner will be served from **6:50 to 7:20 PM**.
 
 </ImageFrame>
 
