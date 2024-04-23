@@ -20,14 +20,6 @@ ACE Code Day 2024 has a diverse lineup of 14 workshops with topics ranging from 
 
 </ImageFrame>
 
-<ImageFrame src="images/stock/students_collaborating.jpg" alt="Two students collaborating on a project at ACE Code Day">
-
-<h2>DinoHacks</h2>
-
-This year, ACE Coding will also be hosting a hackathon separate from ACE Code Day from Friday **May 17th** to Saturday **May 18th, 2024**, during the ACE Code Day event. By competing in DinoHacks, you can strengthen your existing skills, bond with peers, and potentially win prizes! We will be posting information on how to sign up soon.
-
-</ImageFrame>
-
 <ImageFrame src="images/stock/library_coders.jpg" alt="The AVHS library, filled with ACE Code Day Attendees" class="lg:even:flex-row-reverse lg:even:space-x-reverse">
 
 <h2>Event Information</h2>
