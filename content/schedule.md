@@ -19,9 +19,9 @@ Refer to the schedules below for the specific timings of workshop tracks and the
     { time: '4:15 PM to 4:30 PM', title: 'Snack Break' },
     { time: '4:30 PM to 5:30 PM', title: 'Workshop Track 3' },
     { time: '5:30 PM to 5:35 PM', title: 'Passing Period' },
-    { time: '5:35 PM to 6:35 PM', title: 'Guest Speaker' },
-    { time: '6:35 PM to 6:50 PM', title: 'Group Photos' },
-    { time: '6:50 PM to 7:20 PM', title: 'Dinner' },
-    { time: '7:20 PM to 7:30 PM', title: 'Pickup' },
+    { time: '5:35 PM to 6:05 PM', title: 'Guest Speaker' },
+    { time: '6:05 PM to 6:20 PM', title: 'Group Photos' },
+    { time: '6:20 PM to 6:50 PM', title: 'Dinner' },
+    { time: '6:50 PM to 7:00 PM', title: 'Pickup' },
 ]"></Schedule>
 </div>
