@@ -1,91 +1,58 @@
 {
   "workshops": [
-    {
-      "title": "Intro to the Python Programming Language",
-      "level": 1,
-      "description": "Looking to learn one of the most popular industry-standard programming languages today? Python is a readable, easy-to-learn programming language used by everyone from small startups to tech giants, with applications from automation scripts to web servers. Our Intro to Python workshop will get you started on the basics of using this incredibly powerful and popular language. No experience needed. Recommended for first time coders and beginners.",
-      "tracks": [2, 3]
-    },
-    {
-      "title": "Intro to the Java Programming Language",
-      "level": 1,
-      "description": "The world runs on code, and Java is one of the most widely-used programming languages out there. Learn what Java is, its applications, and how to write your first lines of code in the Fundamentals of Java Workshop! Java is powerful and easy to learn, and traditionally has served as the entry point for those new to coding. No experience needed. Recommended for first time coders and beginners.",
-      "tracks": [1, 2]
-    },
-    {
-      "title": "Intro to USACO with C++",
-      "level": 2,
-      "description": "In this workshop, you will be introduced to the fundamentals of Algorithms and Data strucutres and how they can be applied to USACO (USA Computing Olympiad). This workshop will also teach participants how to write and debug C++ code and work on small programming projects. By the end of the workshop, attendees will have a basic understanding of programming with C++ and will know how to use algorithms and data along with problem solving skills to solve a structured programming problems.",
-      "tracks": [1, 3]
-    },
-    {
-      "title": "Intro to Web Development with HTML/CSS/JS",
-      "level": 1,
-      "description": "Websites are at the core of digital life today, and web development is an essential skill now more than ever. This workshop will equip you with all the skills needed to create websites with HTML, CSS, and JavaScript. No prior coding experience is required.",
-      "tracks": [1, 3]
-    },
-    {
-      "title": "GWC - Video Game Development with Meowbits",
-      "level": 1,
-      "description": "If you're into playing or learning fundamental skills to program video games, this workshop (brought to you by the AVHS Girls Who Code club) is for you! We'll be using Meowbits, handheld devices with button controls, and coding in a website that lets you play your designed game on the Meowbit. Our workshop will be perfect if you're interested in working in game development or want to learn programming basics to build off of. ",
-      "tracks": [2, 3]
-    },
-    {
-      "title": "Game Development with Bitsy",
-      "level": 1,
-      "description": "How can programming, art, music, and narrative combine to create a functioning game? In this workshop, students will be introduced to the basic process of game creation and will work with a free, online engine called Bitsy to create their own game! As Bitsy functions on conditional variables rather than full-fledged scripting, students do not need any background in coding to join.",
-      "tracks": [1]
-    },
-    {
-      "title": "Game Development with Unity",
-      "level": 1,
-      "description": "This workshop explores the video game development field, an industry that has been growing rapidly. Students will learn how to create a game on Unity alongside coding scripts on C#.",
-      "tracks": [2]
-    },
-    {
-      "title": "Intro to Cybersecurity",
-      "level": 1,
-      "description": "Cybersecurity allows one to protect their technology from any external attacks, keeping their data and private info safe. In this workshop, we will go through a brief intodroduction of the importance of Cybersecrity and steps you can take to stay protected. In addition we will introduce tools that will help with out task, and you will learn how to implement those skills in a CTF, or Capture the Flag.",
-      "tracks": [2]
-    },
-    {
-      "title": "Frontend Development with React.js",
-      "level": 2,
-      "description": "React.js: Taking advantage of components and state management, this framework can be used to create dynamic websites with JavaScript. This technology is high in demand and is one of the most popular JavaScript framework. In this workshop students will learn how to leverage this powerful framework to create interactive UIs and elevate their website development skills.",
-      "prereqs": "Prior HTML/CSS/JS experience recommended.",
-      "tracks": [1]
-    },
-    {
-      "title": "Intro to Machine Learning",
-      "level": 2,
-      "description": "Machine Learning is the next big thing in the tech industry. We see it all the time in from market predictions to finding patterns in unsolved mysteries. This course will teach you more than machine learning - it will teach you to think like an analyst.",
-      "prereqs": "Recommended coding experience and personal (non-chromebook) computer/gmail",
-      "tracks": [1, 3]
-    },
-    {
-      "title": "Intro to CAD",
-      "level": 1,
-      "description": "Learn the basics of mechanical design through beginner software TinkerCAD. You will also learn the fundamental manufacturing processes that can bring your computer designs to life, while also being able to make your own custom keychain.",
-      "tracks": [2, 3]
-    },
-    {
-      "title": "App Development with Flutter",
-      "level": 2,
-      "description": "Flutter is developed by Google and has emerged as one of the primary competitors in cross-platform app development. While alternatives do exist, such as React Native and Xamarin, they are often plagued by performance issues and a lack of native API compatibility. Many companies and organizations - such as Google and Tencent - use Flutter to develop applications that are used in production. Combined with Flutter's low bar of entry (no need for a Mac for iOS development + amazing documentation), Flutter is a valuable skill to know.",
-      "tracks": [2, 3]
-    },
-    {
-      "title": "Server Building",
-      "level": 2,
-      "description": "Everyone should know how to build their own server! Whether its to self-host their own websites or store their files, it is a useful skill to learn for the future. Many online services require servers, and running these servers is essential for normal operation. In this workshop, students will be taught how to assemble and administer their very own server!",
-      "tracks": [1, 2]
-    },
-    {
-      "title": "AVBotz - Computer Vision with OpenCV",
-      "level": 2,
-      "description": "Computer Vision is drastically growing in the industry, with ML/AI taking the lead, yet other aspects of Computer Vision are equally as important. Such aspects would be image analysis and processing. Through this workshop (brought to you by the Amador Valley Robotics Team - AVBotz), you will learn how to detect specific characteristics of an object in an image, some of the math behind it, and how it can be used in the real world.",
-      "tracks": [1, 3],
-      "prereqs": "Students need a non-chromebook laptop. They will need to work with terminal and a proper IDE."
-    }
+    // {
+    //   "title": "Intro to Electrical Engineering (AVBotz)",
+    //   "level": "Intermediate",
+    //   "description": "Discover how Electrical Engineering powers the technology we use every day, from smartphones to appliances. Electrical Engineering helps build strong problem-solving and analytical skills that’ll give you the power to design and create technologies that will shape the future.",
+    //   "tracks": [2, 3]
+    // },
+    // {
+    //   "title": "Computer Vision with OpenCV (AVBotz)",
+    //   "level": "Intermediate",
+    //   "description": "Computer Vision is a field in which methods are used to analyze and extract information from digital images. Given the prevalence of robotics in the modern world, this workshop will dive into how Computer Vision is applied in real-world scenarios.",
+    //   "tracks": [1, 3]
+    // },
+    // {
+    //   "title": "Intro to Web Development (HTML/CSS/JS)",
+    //   "level": "Beginner",
+    //   "description": "Web Development has come to the forefront of importance as an increasing amount of communication, advertising, and outreach occurs through websites. Taught by a current UC Berkeley student, this course introduces students to foundational web development technologies (HTML, CSS, JS).",
+    //   "tracks": [1, 3]
+    // },
+    // {
+    //   "title": "LEGO Robotics with Python (FIRST LEGO League)",
+    //   "level": "Beginner",
+    //   "description": "Dive into the exciting world of LEGO Robotics and Python programming! In this workshop, you'll learn how to design, build, and code robots to complete real-world challenges, just like in the FIRST LEGO League (FLL). Develop critical thinking, teamwork, and coding skills while bringing your creations to life! This workshop will also feature a presentation by the NorCal FLL 1st Place Championship Winners.",
+    //   "tracks": [2, 3]
+    // },
+    // {
+    //   "title": "Applications of Machine Learning",
+    //   "level": "Intermediate",
+    //   "description": "Machine Learning is the next big thing in the tech industry. We see it all the time from market predictions to finding patterns in unsolved mysteries. This course will teach you more than machine learning - it will teach you to think like an analyst.",
+    //   "tracks": [1, 3]
+    // },
+    // {
+    //   "title": "Intro to Python Programming",
+    //   "level": "Beginner",
+    //   "description": "Looking to learn one of the most popular industry-standard programming languages today? Python is a readable, easy-to-learn programming language used by everyone from small startups to tech giants, with applications from automation scripts to web servers. Our Intro to Python workshop will get you started on the basics of using this incredibly powerful and popular language. No experience needed. Recommended for first-time coders and beginners.",
+    //   "tracks": [2, 3]
+    // },
+    // {
+    //   "title": "Intro to Java / APCSA Prep",
+    //   "level": "Beginner",
+    //   "description": "Intro to Java / APCSA Prep aims to build a foundation for students interested in learning Java and taking APCSA, which is taught in Java, in high school. Taking APCSA can give students a head start in college with transferable credits, which this workshop will help prepare students for success.",
+    //   "tracks": [1, 2]
+    // },
+    // {
+    //   "title": "Server Building",
+    //   "level": "Intermediate",
+    //   "description": "Everyone should know how to build their own server! Whether it's to self-host their own websites or store their files, it is a useful skill to learn for the future. Many online services require servers, and running these servers is essential for normal operation. In this workshop, students will be taught how to assemble and administer their very own server!",
+    //   "tracks": [1, 2]
+    // },
+    // {
+    //   "title": "GWC",
+    //   "level": "Beginner",
+    //   "description": "This workshop (brought to you by the AVHS Girls Who Code club) will help you learn programming fundamentals, game development, and more!",
+    //   "tracks": [2, 3]
+    // }
   ]
 }
