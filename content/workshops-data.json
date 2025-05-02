@@ -4,37 +4,37 @@
       "title": "Intro to Electrical Engineering (AVBotz)",
       "level": "Intermediate",
       "description": "Discover how Electrical Engineering powers the technology we use every day, from smartphones to appliances. Electrical Engineering helps build strong problem-solving and analytical skills that’ll give you the power to design and create technologies that will shape the future.",
-      "tracks": [2, 3]
+      "tracks": [1, 2, 3]
     },
     {
       "title": "Computer Vision with OpenCV (AVBotz)",
       "level": "Intermediate",
       "description": "Computer Vision is a field in which methods are used to analyze and extract information from digital images. Given the prevalence of robotics in the modern world, this workshop will dive into how Computer Vision is applied in real-world scenarios.",
-      "tracks": [1, 3]
+      "tracks": [1, 2, 3]
     },
     {
       "title": "Intro to Web Development (HTML/CSS/JS)",
       "level": "Beginner",
       "description": "Web Development has come to the forefront of importance as an increasing amount of communication, advertising, and outreach occurs through websites. Taught by a current UC Berkeley student, this course introduces students to foundational web development technologies (HTML, CSS, JS).",
-      "tracks": [1, 3]
+      "tracks": [1, 2]
     },
     {
-      "title": "LEGO Robotics with Python (FIRST LEGO League)",
+      "title": "Intermediate Web Development with Vue.js",
+      "level": "Intermediate",
+      "description": "Take your web development skills to the next level by learning how to build dynamic, modern web apps with Vue.js. This workshop is perfect for students with basic knowledge of HTML/CSS/JS who are ready to explore frontend frameworks.",
+      "tracks": [3]
+    },
+    {
+      "title": "Intro to LEGO Robotics (FIRST LEGO League)",
       "level": "Beginner",
       "description": "Dive into the exciting world of LEGO Robotics and Python programming! In this workshop, you'll learn how to design, build, and code robots to complete real-world challenges, just like in the FIRST LEGO League (FLL). Develop critical thinking, teamwork, and coding skills while bringing your creations to life! This workshop will also feature a presentation by the NorCal FLL 1st Place Championship Winners.",
-      "tracks": [2, 3]
-    },
-    {
-      "title": "Applications of Machine Learning",
-      "level": "Intermediate",
-      "description": "Machine Learning is the next big thing in the tech industry. We see it all the time from market predictions to finding patterns in unsolved mysteries. This course will teach you more than machine learning - it will teach you to think like an analyst.",
-      "tracks": [1, 3]
+      "tracks": [1, 2, 3]
     },
     {
       "title": "Intro to Python Programming",
       "level": "Beginner",
       "description": "Looking to learn one of the most popular industry-standard programming languages today? Python is a readable, easy-to-learn programming language used by everyone from small startups to tech giants, with applications from automation scripts to web servers. Our Intro to Python workshop will get you started on the basics of using this incredibly powerful and popular language. No experience needed. Recommended for first-time coders and beginners.",
-      "tracks": [2, 3]
+      "tracks": [1, 2, 3]
     },
     {
       "title": "Intro to Java / APCSA Prep",
@@ -43,13 +43,19 @@
       "tracks": [1, 2]
     },
     {
-      "title": "Server Building",
+      "title": "Applications of Machine Learning",
       "level": "Intermediate",
-      "description": "Everyone should know how to build their own server! Whether it's to self-host their own websites or store their files, it is a useful skill to learn for the future. Many online services require servers, and running these servers is essential for normal operation. In this workshop, students will be taught how to assemble and administer their very own server!",
+      "description": "Machine Learning is the next big thing in the tech industry. We see it all the time from market predictions to finding patterns in unsolved mysteries. This course will teach you more than machine learning - it will teach you to think like an analyst.",
       "tracks": [1, 2]
     },
     {
-      "title": "GWC",
+      "title": "Server Building",
+      "level": "Intermediate",
+      "description": "Everyone should know how to build their own server! Whether it's to self-host their own websites or store their files, it is a useful skill to learn for the future. Many online services require servers, and running these servers is essential for normal operation. In this workshop, students will be taught how to assemble and administer their very own server!",
+      "tracks": [1, 3]
+    },
+    {
+      "title": "EarSketch Music Technology (GWC)",
       "level": "Beginner",
       "description": "This workshop (brought to you by the AVHS Girls Who Code club) will help you learn programming fundamentals, game development, and more!",
       "tracks": [2, 3]
