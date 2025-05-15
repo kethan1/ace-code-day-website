@@ -2,62 +2,72 @@
   "workshops": [
     {
       "title": "Intro to Electrical Engineering (AVBotz)",
-      "level": "Intermediate",
-      "description": "Discover how Electrical Engineering powers the technology we use every day, from smartphones to appliances. Electrical Engineering helps build strong problem-solving and analytical skills that’ll give you the power to design and create technologies that will shape the future.",
+      "level": 2,
+      "prereqs": "None",
+      "description": "Discover how Electrical Engineering powers the technology we use every day, from smartphones to appliances. Taught by Amador’s award-winning AVBotz robotics team, this workshop introduces students to electrical engineering through hands-on experience with real circuits, soldering, and foundational topics like current, voltage, and power.",
       "tracks": [1, 2, 3]
     },
     {
       "title": "Computer Vision with OpenCV (AVBotz)",
-      "level": "Intermediate",
-      "description": "Computer Vision is a field in which methods are used to analyze and extract information from digital images. Given the prevalence of robotics in the modern world, this workshop will dive into how Computer Vision is applied in real-world scenarios.",
+      "level": 2,
+      "prereqs": "None",
+      "description": "How do computers see the world? This exciting workshop, led by AVBotz, introduces the fundamentals of computer vision using OpenCV—the same library used in facial recognition and self-driving cars. Students will analyze and extract data from images using real-world applications.",
       "tracks": [1, 2, 3]
     },
     {
       "title": "Intro to Web Development (HTML/CSS/JS)",
-      "level": "Beginner",
-      "description": "Web Development has come to the forefront of importance as an increasing amount of communication, advertising, and outreach occurs through websites. Taught by a current UC Berkeley student, this course introduces students to foundational web development technologies (HTML, CSS, JS).",
+      "level": 1,
+      "prereqs": "None",
+      "description": "Want to build your own website from scratch? This beginner-friendly course introduces HTML, CSS, and JavaScript—the foundational tools of the web. Taught by ACE Coding alumni from UC Berkeley EECS, students will create interactive, responsive websites with no prior coding experience.",
       "tracks": [1, 2]
     },
     {
       "title": "Intermediate Web Development with Vue.js",
-      "level": "Intermediate",
-      "description": "Take your web development skills to the next level by learning how to build dynamic, modern web apps with Vue.js. This workshop is perfect for students with basic knowledge of HTML/CSS/JS who are ready to explore frontend frameworks.",
+      "level": 2,
+      "prereqs": "Basic knowledge of HTML/CSS/JS or completion of Intro to Web Dev",
+      "description": "Level up your web skills by learning Vue.js, a powerful JavaScript framework for building modern web apps. Taught by ACE Coding alumni, this workshop is perfect for students with basic knowledge of HTML/CSS/JS or who have completed the Intro to Web Dev course.",
       "tracks": [3]
     },
     {
       "title": "Intro to LEGO Robotics (FIRST LEGO League)",
-      "level": "Beginner",
-      "description": "Dive into the exciting world of LEGO Robotics and Python programming! In this workshop, you'll learn how to design, build, and code robots to complete real-world challenges, just like in the FIRST LEGO League (FLL). Develop critical thinking, teamwork, and coding skills while bringing your creations to life! This workshop will also feature a presentation by the NorCal FLL 1st Place Championship Winners.",
+      "level": 1,
+      "prereqs": "None",
+      "description": "Dive into the world of LEGO Robotics and Python programming! With guidance from NorCal’s 1st Place FLL Champions, students will design, build, and code LEGO robots to solve real-world challenges. No experience needed—just curiosity and creativity.",
       "tracks": [1, 2, 3]
     },
     {
       "title": "Intro to Python Programming",
-      "level": "Beginner",
-      "description": "Looking to learn one of the most popular industry-standard programming languages today? Python is a readable, easy-to-learn programming language used by everyone from small startups to tech giants, with applications from automation scripts to web servers. Our Intro to Python workshop will get you started on the basics of using this incredibly powerful and popular language. No experience needed. Recommended for first-time coders and beginners.",
+      "level": 1,
+      "prereqs": "None",
+      "description": "Python is one of the most popular and powerful programming languages—used in AI, data analysis, automation, and more. This beginner workshop introduces core concepts with no prerequisites, making it perfect for first-time coders who want to build their future with code.",
       "tracks": [1, 2, 3]
     },
     {
       "title": "Intro to Java / APCSA Prep",
-      "level": "Beginner",
-      "description": "Intro to Java / APCSA Prep aims to build a foundation for students interested in learning Java and taking APCSA, which is taught in Java, in high school. Taking APCSA can give students a head start in college with transferable credits, which this workshop will help prepare students for success.",
+      "level": 1,
+      "prereqs": "None",
+      "description": "Thinking about taking AP Computer Science A? This workshop introduces students to Java—the language used in the APCSA curriculum. Learn core programming concepts to build a solid foundation for high school and beyond.",
       "tracks": [1, 2]
     },
     {
       "title": "Applications of Machine Learning",
-      "level": "Intermediate",
-      "description": "Machine Learning is the next big thing in the tech industry. We see it all the time from market predictions to finding patterns in unsolved mysteries. This course will teach you more than machine learning - it will teach you to think like an analyst.",
+      "level": 2,
+      "prereqs": "Some coding experience recommended",
+      "description": "Explore the rapidly growing field of Machine Learning with real-world examples in market prediction and AI. Taught by Amador’s AI Club, this workshop teaches students to think like analysts.",
       "tracks": [1, 2]
     },
     {
       "title": "Server Building",
-      "level": "Intermediate",
-      "description": "Everyone should know how to build their own server! Whether it's to self-host their own websites or store their files, it is a useful skill to learn for the future. Many online services require servers, and running these servers is essential for normal operation. In this workshop, students will be taught how to assemble and administer their very own server!",
+      "level": 2,
+      "prereqs": "None (comfort with computers recommended)",
+      "description": "Ever wanted to host your own website or run a file server? Learn how to build and configure your own server from scratch. This hands-on workshop is perfect for tech enthusiasts.",
       "tracks": [1, 3]
     },
     {
       "title": "EarSketch Music Technology (GWC)",
-      "level": "Beginner",
-      "description": "This workshop (brought to you by the AVHS Girls Who Code club) will help you learn programming fundamentals, game development, and more!",
+      "level": 1,
+      "prereqs": "None",
+      "description": "Code to the beat with EarSketch! This creative workshop teaches Python through music, allowing students to compose songs while learning coding basics like loops and functions. Taught by Amador’s Girls Who Code club—perfect for all experience levels.",
       "tracks": [2, 3]
     }
   ]
