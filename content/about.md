@@ -24,7 +24,7 @@ ACE Code Day 2025 has a diverse lineup of 9 workshops with topics ranging from *
 
 <h2>Event Information</h2>
 
-ACE Code Day will be held at **Amador Valley High School** on **May 18th, 2025**. Workshops will take place in R building classrooms from **2:15 PM to 5:45 PM**, the guest speaker session will take place in the MPR from **5:50 PM to 6:30 PM**, and free pizza dinner will be served from **6:45 to 7:00 PM**.
+ACE Code Day will be held at **Amador Valley High School** on **May 17th, 2025**. Workshops will take place in R building classrooms from **2:15 PM to 5:45 PM**, the guest speaker session will take place in the MPR from **5:50 PM to 6:30 PM**, and free pizza dinner will be served from **6:45 to 7:00 PM**.
 
 </ImageFrame>
 
