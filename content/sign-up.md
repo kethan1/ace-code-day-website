@@ -4,7 +4,7 @@ title: "Sign Up"
 
 <h1 class="text-outline-shadow before:content-['Sign_Up']">Sign Up</h1>
 
-Fill out the form below to sign up for ACE Code Day 2025! Refer to the [workshop information](#workshops) above to inform your decisions on which workshops to participate in. 
+Fill out the form below to sign up for ACE Code Day 2026! Refer to the [workshop information](#workshops) above to inform your decisions on which workshops to participate in.
 
 <div class="w-full text-center">
 <div class="inline-block bg-slate-200 border border-slate-600 rounded-lg shadow-lg">

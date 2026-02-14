@@ -8,7 +8,7 @@ title: "About"
 
 <h1 class="text-outline-shadow before:content-['About']">About</h1>
 
-We're [ACE Coding](https://acecoding.org) — a group of high schoolers dedicated to spreading the knowledge of programming to students of all ages. Every year, we host **ACE Code Day**, a day on which we lead workshops on a variety of programming topics to help students further their knowledge in specialized areas of technology, **free of charge**. 
+We're [ACE Coding](https://acecoding.org) — a group of high schoolers dedicated to spreading the knowledge of programming to students of all ages. Every year, we host **ACE Code Day**, a day on which we lead workshops on a variety of programming topics to help students further their knowledge in specialized areas of technology, **free of charge**.
 
 </ImageFrame>
 
@@ -16,7 +16,7 @@ We're [ACE Coding](https://acecoding.org) — a group of high schoolers dedicate
 
 <h2>Event Lineup</h2>
 
-ACE Code Day 2025 has a diverse lineup of 9 workshops with topics ranging from **web development** to **LEGO robotics** to **electrical engineering**, and much more! [Keep scrolling](#workshops) for a detailed overview of all the workshops we have to offer. Additionally, the event will feature **guest speakers** from big tech companies like Google for students to learn more about careers in tech!
+ACE Code Day 2026 has a diverse lineup of 14 workshops with topics ranging from **web development** to **drone design** to **electrical engineering**, and much more! [Keep scrolling](#workshops) for a detailed overview of all the workshops we have to offer. Additionally, the event will feature **guest speakers** from for students to learn more about careers in tech!
 
 </ImageFrame>
 
@@ -24,7 +24,7 @@ ACE Code Day 2025 has a diverse lineup of 9 workshops with topics ranging from *
 
 <h2>Event Information</h2>
 
-ACE Code Day will be held at **Amador Valley High School** on **May 17th, 2025**. Workshops will take place in R building classrooms from **2:15 PM to 5:45 PM**, the guest speaker session will take place in the MPR from **5:50 PM to 6:30 PM**, and free pizza dinner will be served from **6:45 to 7:00 PM**.
+ACE Code Day will be held at **Amador Valley High School** on **February 28th, 2026**. Workshops will take place in R building classrooms from **2:15 PM to 5:45 PM**, the guest speaker session will take place in the MPR from **5:50 PM to 6:30 PM**, and free pizza dinner will be served from **6:45 to 7:00 PM**.
 
 </ImageFrame>
 

@@ -22,15 +22,15 @@ title: "Workshops"
   <h1 class="text-4xl font-bold mb-4 text-outline-shadow before:content-['Workshops']">Workshops</h1>
 
   <p class="mb-4">
-    ACE Code Day has an incredible lineup of workshops on a variety of technological topics. Read below for detailed information on all the workshops we have prepared for ACE Code Day 2025.
+    ACE Code Day has an incredible lineup of workshops on a variety of technological topics. Read below for detailed information on all the workshops we have prepared for ACE Code Day 2026.
   </p>
 
   <!-- Map link button -->
-  <a href="https://drive.google.com/file/d/1LONSVSzAuAF4D5XZrLgp_5JvAKjZ-GjD/view?usp=sharing" 
-     target="_blank" 
+  <a href="https://drive.google.com/file/d/1LONSVSzAuAF4D5XZrLgp_5JvAKjZ-GjD/view?usp=sharing"
+     target="_blank"
      rel="noopener noreferrer"
      class="inline-block mt-2 px-5 py-2 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition">
-     📍 View ACE Code Day 2025 Map (PDF)
+     📍 View ACE Code Day 2026 Map (PDF)
   </a>
 
 </body>
