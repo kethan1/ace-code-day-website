@@ -57,7 +57,7 @@
     {
       "title": "Build and Code Cyberbots",
       "club": "Girls Who Code",
-      "laptop": false,
+      "laptop": true,
       "level": 1,
       "prereqs": "None",
       "description": "In this hands-on workshop, students become robotics engineers as they build Cyberbots, learn the basics of coding their movements, and put their skills to the test by programming them to escape a maze. Taught by AVHS Girls Who Code, perfect for all experience levels!",
