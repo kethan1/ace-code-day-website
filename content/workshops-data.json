@@ -1,102 +1,130 @@
 {
   "workshops": [
     {
-      "title": "Intro to Electrical Engineering (AVBotz)",
+      "title": "Intro to Electrical Engineering",
+      "club": "AVBotz",
+      "laptop": false,
       "level": 1,
       "prereqs": "None",
       "description": "Taught by Amador’s award-winning AVBotz robotics team, this workshop will introduce students to foundational electrical engineering topics like current, voltage, and power. Students will gain hands-on experience with real circuits, soldering, and prototyping on circuit boards.",
       "tracks": [1, 2, 3]
     },
     {
-      "title": "Applications of Machine Learning",
-      "level": 2,
-      "prereqs": "Prior Python experience strongly recommended",
-      "description": "Explore the rapidly growing field of Machine Learning with real-world examples in market prediction and AI. Students will build Long-Short-Term-Memory (LSTM) models in Python to predict stock market prices while learning core artificial intelligence tools.",
-      "tracks": [1, 3]
+      "title": "Computer Vision with OpenCV",
+      "club": "AVBotz",
+      "laptop": true,
+      "level": 1,
+      "prereqs": "None",
+      "description": "Explore how to process images and video using OpenCV in Python to detect motion, shapes, and objects. This workshop demonstrates how computer vision allows robots, drones, and self-driving cars to analyze their surroundings and avoid obstacles.",
+      "tracks": [2, 3]
     },
     {
-      "title": "Intro to CAD Using OnShape (AVBotz)",
+      "title": "Intro to CAD Using OnShape",
+      "club": "AVBotz",
+      "laptop": true,
       "level": 1,
       "prereqs": "None",
       "description": "Step into the world of 3D design and learn how engineers and makers turn ideas into prototypes and real products. In this workshop, taught by Amador's award-winning AVBotz robotics team, students will use Onshape (onshape.com) to create 3D parts and simple assemblies while learning core CAD skills like sketching, constraints, and extruding.",
       "tracks": [2, 3]
     },
     {
-      "title": "Intro to Python",
+      "title": "Single-Shot Perception for Autonomous Drones",
+      "club": "AmadorUAVs",
+      "laptop": false,
+      "level": 2,
+      "prereqs": "None",
+      "description": "Learn how autonomous drones and aircraft perceive their environment using single-shot computer vision, mirroring techniques found in industry self-driving and UAV systems.This workshop focuses on the critical balance of speed and accuracy, teaching students how to convert visual detections and sudden changes into control decisions under strict constraints.",
+      "tracks": [2]
+    },
+    {
+      "title": "Mechanical Plane Design & Manufacturing",
+      "club": "AmadorUAVs",
+      "laptop": false,
+      "level": 2,
+      "prereqs": "None",
+      "description": "Step into the world of aerospace engineering and learn how create drones and planes. In this workshop, taught by Amador’s award-winning AmadorUAVs team, students will explore modern manufacturing technologies like CNCs and laser cutters. This workshop will also explore the usage of ANSYS Fluent CFD to visualize aerodynamics, concluding with a hands-on activity where students build and test their own small gliders.",
+      "tracks": [1, 2]
+    },
+    {
+      "title": "Drone Power Systems",
+      "club": "AmadorUAVs",
+      "laptop": false,
       "level": 1,
       "prereqs": "None",
-      "description": "Python is one of the most popular and powerful programming languages—used in AI, data analysis, automation, and more. This beginner workshop introduces core concepts with no prerequisites, making it perfect for first-time coders who want to build their future with code.",
+      "description": "Unlock the secrets of flight in this hands-on workshop. Learn fundamental electronics, explore the anatomy of a drone and basic systems and electronics. Run by Amador's award-winning UAVs club, the workshop will have live demonstrations, and we'll the controls for a real flight experience using our own hand-built drone.",
       "tracks": [1, 2, 3]
     },
     {
-      "title": "Intro to Data Science (AV Data Science)",
+      "title": "Build and Code Cyberbots",
+      "club": "Girls Who Code",
+      "laptop": false,
+      "level": 1,
+      "prereqs": "None",
+      "description": "In this hands-on workshop, students become robotics engineers as they build Cyberbots, learn the basics of coding their movements, and put their skills to the test by programming them to escape a maze. Taught by AVHS Girls Who Code, perfect for all experience levels!",
+      "tracks": [1, 2, 3]
+    },
+    {
+      "title": "Robot Tour Using EV3",
+      "club": "AV Science Olympiad",
+      "laptop": true,
+      "level": 2,
+      "prereqs": "None",
+      "description": "Learn about the Science Olympiad Robot Tour event through the LEGO MINDSTORMS EV3 platform. This technical workshop focuses on the engineering principles and  logic to build a competitive robot. Learn Hands-on assembly of EV3 components, Sensor Calibration, and Autonomous Programming.",
+      "tracks": [3]
+    },
+    {
+      "title": "Intro to Data Science",
+      "club": "AV Data Science",
+      "laptop": true,
       "level": 2,
       "prereqs": "Basic Python or coding experience recommended",
       "description": "This workshop will integrate computer science and statistics to teach students various data analysis techniques. Students will learn to use Jupyter Notebook and Python libraries, such as Pandas and Scikit Learn, to explore large datasets and uncover insightful patterns. These skills are highly applicable to the real world, most notably for building Large Language Models that train on terabytes of data.",
       "tracks": [1, 2]
     },
     {
+      "title": "Applications of Machine Learning",
+      "club": "None",
+      "laptop": true,
+      "level": 2,
+      "prereqs": "Prior Python experience strongly recommended",
+      "description": "Explore the rapidly growing field of Machine Learning with real-world examples in market prediction and AI. Students will build Long-Short-Term-Memory (LSTM) models in Python to predict stock market prices while learning core artificial intelligence tools.",
+      "tracks": [1, 3]
+    },
+    {
+      "title": "Intro to Python",
+      "club": "None",
+      "laptop": true,
+      "level": 1,
+      "prereqs": "None",
+      "description": "Python is one of the most popular and powerful programming languages—used in AI, data analysis, automation, and more. This beginner workshop introduces core concepts with no prerequisites, making it perfect for first-time coders who want to build their future with code.",
+      "tracks": [1, 2, 3]
+    },
+    {
       "title": "Intro to Java",
+      "club": "None",
+      "laptop": true,
       "level": 1,
       "prereqs": "None",
       "description": "Java is one of the most popular programming languages, powering everything from popular apps and game servers to large-scale backends used by real companies. In this beginner-friendly workshop, students will learn core programming concepts like variables, conditionals, loops, methods, and an introduction to object oriented programming (OOP). No prior experience is required. Students planning to take AP Computer Science A in high school will also get a strong head start from this workshop.",
       "tracks": [1, 3]
     },
     {
-      "title": "Computer Vision with OpenCV (AVBotz)",
-      "level": 1,
-      "prereqs": "None",
-      "description": "Explore how to process images and video using OpenCV in Python to detect motion, shapes, and objects. This workshop demonstrates how computer vision allows robots, drones, and self-driving cars to analyze their surroundings and avoid obstacles.",
-      "tracks": [1, 2, 3]
-    },
-    {
       "title": "Server Building",
+      "club": "None",
+      "laptop": true,
       "level": 2,
       "prereqs": "Comfort with computers recommended",
       "description": "Ever wanted to host your own website or run a file server? Learn how to build and configure your own server from scratch. Students will gain experience in Linux system administration as we install and set up applications like a code-server and Minecraft server. This hands-on workshop is perfect for tech enthusiasts! Students should bring a Windows or MacOS (non-Chromebook) laptop for this workshop.",
-      "tracks": [1, 3]
-    },
-    {
-      "title": "Build and Code Cyberbots (Girls Who Code)",
-      "level": 1,
-      "prereqs": "None",
-      "description": "In this hands-on workshop, students become robotics engineers as they build Cyberbots, learn the basics of coding their movements, and put their skills to the test by programming them to escape a maze. Taught by AVHS Girls Who Code, perfect for all experience levels!",
-      "tracks": [2, 3]
+      "tracks": [1, 2]
     },
     {
       "title": "Intro to Web Development",
+      "club": "None",
+      "laptop": true,
       "level": 1,
       "prereqs": "None",
       "description": "Want to build your own website from scratch? This beginner-friendly course introduces HTML, CSS, and JavaScript—the foundation of websites. Students will create interactive, responsive websites. No past coding experience is required!",
-      "tracks": [1, 2, 3]
-    },
-    {
-      "title": "Single-Shot Perception for Autonomous Drones (AmadorUAVs)",
-      "level": 2,
-      "prereqs": "None",
-      "description": "Learn how autonomous drones and aircraft perceive their environment using single-shot computer vision, mirroring techniques found in industry self-driving and UAV systems.This workshop focuses on the critical balance of speed and accuracy, teaching students how to convert visual detections and sudden changes into control decisions under strict constraints.",
       "tracks": [1, 3]
-    },
-    {
-      "title": "Mechanical Plane Design & Manufacturing (AmadorUAVs)",
-      "level": 2,
-      "prereqs": "None",
-      "description": "Step into the world of aerospace engineering and learn how create drones and planes. In this workshop, taught by Amador’s award-winning AmadorUAVs team, students will explore modern manufacturing technologies like CNCs and laser cutters. This workshop will also explore the usage of ANSYS Fluent CFD to visualize aerodynamics, concluding with a hands-on activity where students build and test their own small gliders.",
-      "tracks": [1]
-    },
-    {
-      "title": "Robot Tour Using EV3 (AV Science Olympiad)",
-      "level": 2,
-      "prereqs": "None",
-      "description": "Learn about the Science Olympiad Robot Tour event through the LEGO MINDSTORMS EV3 platform. This technical workshop focuses on the engineering principles and  logic to build a competitive robot. Learn Hands-on assembly of EV3 components, Sensor Calibration, and Autonomous Programming.",
-      "tracks": [2, 3]
-    },
-    {
-      "title": "Drone Power Systems (AmadorUAVs)",
-      "level": 1,
-      "prereqs": "None",
-      "description": "Unlock the secrets of flight in this hands-on workshop. Learn fundamental electronics, explore the anatomy of a drone and basic systems and electronics. Run by Amador's award-winning UAVs club, the workshop will have live demonstrations, and we'll the controls for a real flight experience using our own hand-built drone.",
-      "tracks": [2, 3]
     }
   ]
 }

@@ -57,7 +57,12 @@ export default {
   computed: {
     trackWorkshops() {
       const filteredWorkshops = this.data.filter(workshop => workshop.tracks.includes(this.track));
-      filteredWorkshops.sort((a, b) => (a.level > b.level) ? 1 : -1);
+      filteredWorkshops.sort((a, b) => {
+        if (a.level !== b.level) {
+          return a.level - b.level;
+        }
+        return a.title.localeCompare(b.title);
+      });
       return filteredWorkshops;
     },
   },
