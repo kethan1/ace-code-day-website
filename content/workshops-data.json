@@ -70,7 +70,7 @@
       "level": 2,
       "prereqs": "None",
       "description": "Learn about the Science Olympiad Robot Tour event through the LEGO MINDSTORMS EV3 platform. This technical workshop focuses on the engineering principles and  logic to build a competitive robot. Learn Hands-on assembly of EV3 components, Sensor Calibration, and Autonomous Programming.",
-      "tracks": [3]
+      "tracks": [2, 3]
     },
     {
       "title": "Intro to Data Science",
@@ -97,7 +97,7 @@
       "level": 1,
       "prereqs": "None",
       "description": "Python is one of the most popular and powerful programming languages—used in AI, data analysis, automation, and more. This beginner workshop introduces core concepts with no prerequisites, making it perfect for first-time coders who want to build their future with code.",
-      "tracks": [1, 2, 3]
+      "tracks": [1, 3]
     },
     {
       "title": "Intro to Java",
