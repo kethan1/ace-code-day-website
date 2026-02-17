@@ -26,7 +26,7 @@ title: "Workshops"
   </p>
 
   <!-- Map link button -->
-  <a href="https://drive.google.com/file/d/1LONSVSzAuAF4D5XZrLgp_5JvAKjZ-GjD/view?usp=sharing"
+  <a href="https://drive.google.com/file/d/1JG15ktS7zgrA716Ze61JvhzJWgiIw-DY/view?usp=sharing"
      target="_blank"
      rel="noopener noreferrer"
      class="inline-block mt-2 px-5 py-2 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition">
