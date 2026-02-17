@@ -51,7 +51,7 @@
       "laptop": false,
       "level": 1,
       "prereqs": "None",
-      "description": "Unlock the secrets of flight in this hands-on workshop. Learn fundamental electronics, explore the anatomy of a drone and basic systems and electronics. Run by Amador's award-winning UAVs club, the workshop will have live demonstrations, and we'll the controls for a real flight experience using our own hand-built drone.",
+      "description": "Unlock the secrets of flight in this hands-on workshop. Learn fundamental electronics, explore the anatomy of a drone and basic systems and electronics. Run by Amador's award-winning UAVs club, the workshop will have live demonstrations, and we'll explain the controls for a real flight experience using our own hand-built drone.",
       "tracks": [1, 2, 3]
     },
     {
