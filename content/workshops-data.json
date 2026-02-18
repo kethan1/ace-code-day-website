@@ -28,15 +28,6 @@
       "tracks": [2, 3]
     },
     {
-      "title": "Single-Shot Perception for Autonomous Drones",
-      "club": "AmadorUAVs",
-      "laptop": false,
-      "level": 2,
-      "prereqs": "None",
-      "description": "Learn how autonomous drones and aircraft perceive their environment using single-shot computer vision, mirroring techniques found in industry self-driving and UAV systems.This workshop focuses on the critical balance of speed and accuracy, teaching students how to convert visual detections and sudden changes into control decisions under strict constraints.",
-      "tracks": [2]
-    },
-    {
       "title": "Mechanical Plane Design & Manufacturing",
       "club": "AmadorUAVs",
       "laptop": false,
