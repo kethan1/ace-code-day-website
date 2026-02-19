@@ -31,9 +31,9 @@
       "title": "Mechanical Plane Design & Manufacturing",
       "club": "AmadorUAVs",
       "laptop": false,
-      "level": 2,
+      "level": 1,
       "prereqs": "None",
-      "description": "Step into the world of aerospace engineering and learn how create drones and planes. In this workshop, taught by Amador’s award-winning AmadorUAVs team, students will explore modern manufacturing technologies like CNCs and laser cutters. This workshop will also explore the usage of ANSYS Fluent CFD to visualize aerodynamics, concluding with a hands-on activity where students build and test their own small gliders.",
+      "description": "Step into the world of aerospace engineering and learn how to create planes. In this workshop, taught by Amador’s award-winning AmadorUAVs team, students will explore modern manufacturing technologies like CNCs, laser cutters, and 3D printers. This workshop will also explore the usage of ANSYS Fluent CFD to visualize and simulate aerodynamics, concluding with a hands-on activity where students build and test their own small gliders.",
       "tracks": [1, 2]
     },
     {
