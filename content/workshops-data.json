@@ -106,7 +106,7 @@
       "level": 2,
       "prereqs": "Comfort with computers recommended",
       "description": "Ever wanted to host your own website or run a file server? Learn how to build and configure your own server from scratch. Students will gain experience in Linux system administration as we install and set up applications like a code-server and Minecraft server. This hands-on workshop is perfect for tech enthusiasts! Students should bring a Windows or MacOS (non-Chromebook) laptop for this workshop.",
-      "tracks": [1, 2]
+      "tracks": [2]
     },
     {
       "title": "Intro to Web Development",
